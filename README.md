@@ -1,4 +1,4 @@
-# Manufacturing-Analysis
+# Manufacturing Analysis
 -Analyzed manufacturing data to provide insights on production efficiency, quality control, and waste management.
 
 -Collected and processed data on manufacturing quantity, rejected quantity, processed quantity, and wastage quantity.
