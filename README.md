@@ -7,4 +7,6 @@
 
 -Utilized Excel, Power BI, Tableau, and SQL to visualize and analyze data according to different buyers'specifications.
 
-*I have provided dataset and all my dashboards*
+-Insights and analyization are explained with the help of ppt.
+
+*I have provided dataset and dashboards*
